@@ -1,5 +1,5 @@
-NAME = Fixed
-SRCS = main.cpp Fixed.cpp
+NAME = ClapTrap
+SRCS = main.cpp ClapTrap.cpp
 FLAGS = -std=c++98 -Wall -Wextra -Werror
 
 OBJS = ${SRCS:.cpp=.o}
